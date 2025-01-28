@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug npm start",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["run", "start"],
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}
